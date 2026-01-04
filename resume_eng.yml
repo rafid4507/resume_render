@@ -1,0 +1,93 @@
+cv:
+  name: MD RAFIDUL ISLAM (RAFID)
+  location: Ingolstadt, Germany
+  email: rafid.4507@gmail.com
+  phone: "+49 15753255867"
+  website: https://rafid4507.github.io
+  social_networks:
+    - network: LinkedIn
+      username: rafid-islam
+    - network: GitHub
+      username: rafid4507
+
+  sections:
+    summary:
+      - [cite_start]AI, ML, NLP, and Computer Vision enthusiast with a strong foundation in Statistics and Software Development. [cite: 1, 2]
+      - [cite_start]Currently developing multimodal LLM-driven document parsers and RAG pipelines for healthcare management. [cite: 8, 14, 66]
+
+    work_experience:
+      - company: Nubedian GmbH
+        location: Karlsruhe, Germany
+        position: Junior AI Developer / Bachelor Thesis Student
+        start_date: 2024-11
+        end_date: present
+        highlights:
+          - [cite_start]"Bachelor Thesis: Implementing an intelligent multimodal LLM-driven document parser (PDFs, images) with automated chunking and knowledge base integration. [cite: 7, 8, 9]"
+          - [cite_start]"Development of a RAG Chatbot: Designed and fine-tuned LLMs using LangChain and vector stores (FAISS/Chroma) for hospital management, improving accuracy by 20%. [cite: 14, 66]"
+          - [cite_start]"Agentic AI Research: Researched and implemented support functions using the Model Context Protocol (MCP) to enhance chatbot autonomy. [cite: 15, 67]"
+          - [cite_start]"Workflow Automation: Deployed scalable n8n and LangChain workflows on AWS and Azure for dynamic document analysis. [cite: 16, 68]"
+          - [cite_start]"Intelligent Document Parsing: Built an OCR pipeline using EasyOCR, Tesseract, and OpenCV, reaching up to 98% text recognition accuracy. [cite: 10, 69]"
+
+      - company: Schanzer Racing e.V.
+        location: Ingolstadt, Germany
+        position: Solutions Developer
+        start_date: 2024-02
+        end_date: 2024-10
+        highlights:
+          - [cite_start]Developed intelligent sensor prototypes in C++ using Raspberry Pi, improving data accuracy by 15% in real-time embedded environments. [cite: 19, 76]
+          - [cite_start]Conducted vehicle dynamics simulations and data modeling using MATLAB to optimize aerodynamic efficiency. [cite: 20, 77]
+          - [cite_start]Managed collaborative firmware updates and code reviews using Git and Bitbucket. [cite: 21, 78]
+
+    education:
+      - institution: Technische Hochschule Ingolstadt
+        area: Informatics - Artificial Intelligence
+        degree: Bachelor of Science
+        location: Ingolstadt, Germany
+        start_date: 2022-10
+        end_date: present
+        highlights:
+          - [cite_start]"Core focus: Machine Learning, NLP (NLTK), Computer Vision (OpenCV), and Big Data concepts. [cite: 31, 32, 33]"
+          - [cite_start]"Software Development: Java (OOP), Django, PHP, and REST APIs. [cite: 29, 30, 86]"
+
+      - institution: Shahjalal University of Science and Technology
+        area: Statistics
+        degree: Bachelor of Science
+        location: Sylhet, Bangladesh
+        start_date: 2019-01
+        end_date: 2021-03
+        highlights:
+          - [cite_start]Specialized in Real Analysis, Linear Algebra, Probability Theory, and R Programming. [cite: 37, 100, 101]
+
+    projects:
+      - name: MRI Diffusion Image Distortion Correction
+        date: 2024-06
+        highlights:
+          - [cite_start]Research on Hough Transformation for determining voxel directions to detect cancer cells in the brain under Prof. Marion Menzel. [cite: 24]
+      - name: Autonomous Underwater Vehicle (IEEE)
+        date: 2019-03
+        highlights:
+          - [cite_start]Designed and built an underwater vehicle capable of line following, color detection, and object manipulation. [cite: 23, 131, 132]
+
+    skills:
+      - label: Programming
+        [cite_start]details: Python, C++, Java, JavaScript, PHP, Rust, TypeScript, Prolog [cite: 40, 71, 113]
+      - label: AI & Data
+        [cite_start]details: PyTorch, TensorFlow, LangChain, OpenAI API, OpenCV, Scikit-Learn, FAISS, NLTK [cite: 42, 71, 122]
+      - label: Tools & Cloud
+        [cite_start]details: AWS, Azure, n8n, Kubernetes, Docker, Linux, Git, REST APIs [cite: 46, 71, 115]
+
+    certifications:
+      - name: Machine Learning (Stanford Online)
+        [cite_start]date: 2020-08 [cite: 53, 129]
+      - name: SQL & Big Data Technology
+        [cite_start]date: 2024-04 [cite: 49, 125]
+      - name: Technical Support Fundamentals (Google)
+        [cite_start]date: 2024-01 [cite: 51, 127]
+
+    languages:
+      - language: English
+        [cite_start]proficiency: C1/C2 (Advanced/Fluent) [cite: 55, 106]
+      - language: German
+        [cite_start]proficiency: A2/B1 (Intermediate) [cite: 56, 109]
+      - language: Bengali
+        [cite_start]proficiency: Native [cite: 103]
